@@ -11,13 +11,15 @@ release should follow this sequence:
 5. Copy the current workbook, README, and screenshots into this repository.
 6. Commit and push the changes to `main`. GitHub Pages will update the online
    reader.
-7. Create and push a matching tag, such as `v1.1.0`. The release workflow will
-   package the offline ZIP, generate its SHA-256 checksum, and publish a GitHub
-   release.
+7. Rebuild `share/David-Celeste-Courtroom-Text-Reader.zip` and
+   `share/SHA256SUMS.txt`.
+8. Create and push a matching tag, such as `v1.1.0`, then publish the ZIP and
+   checksum with `gh release create`. The authenticated GitHub token currently
+   lacks the separate `workflow` scope, so release publishing is intentionally
+   manual and does not require expanding account permissions.
 
 Use patch versions for fixes, minor versions for new features or added source
 material, and major versions for incompatible changes.
 
 The in-reader update check reads the latest GitHub release tag. Keep the
 `VERSION` file and release tag identical except for the tag's leading `v`.
-
