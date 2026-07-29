@@ -45,6 +45,11 @@ abortion, threats, and violence.
 
 - Use **Both hearing days**, **Day 4**, or **Day 5** to filter the transcript.
 - Filter by David or Celeste, or search for a word or phrase.
+- Use the topic menu to narrow the reader to the final night, pregnancy and
+  contraception, threats and conflict, travel planning, phones and secrecy,
+  relationship context, or uncategorized material.
+- Open the public-source research desk to compare official-agency material,
+  courtroom reporting, and clearly marked unverified community leads.
 - Select **Play** for browser-based audio reading. Voice availability depends
   on the computer and browser.
 - Use bookmarks and pause points to save places in the transcript.
@@ -85,3 +90,7 @@ https://www.reddit.com/r/d4vdiots/comments/1v8oy1d/d4vd_and_celestes_text_messag
 The included workbook is a saved copy of the public spreadsheet used to build
 the reader. Readers should verify important claims against official court
 records and reputable reporting.
+
+The research desk contains links for context only. It does not turn news
+summaries or community screenshots into court exhibits, and those materials
+are not merged into the transcript.

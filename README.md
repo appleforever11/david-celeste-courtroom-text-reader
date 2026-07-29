@@ -17,14 +17,20 @@ please credit the creator and link this project.
 
 ![Search results in the reader](screenshots/reader-search.png)
 
+![Public-source research desk](screenshots/reader-research.png)
+
 ## What it includes
 
 - 337 attributed entries across hearing Days 4 and 5
 - Day and speaker filters
+- Topic filters for the final night, pregnancy and contraception, threats and
+  conflict, travel planning, phones and secrecy, and relationship context
 - Full-text search
 - Browser-based audio playback
 - Local bookmarks and pause points
 - Date dividers and source-row references
+- A provenance-aware research desk that separates official-agency material,
+  courtroom reporting, and unverified community leads
 - A saved copy of the source workbook
 
 ## Important source warning
@@ -80,4 +86,12 @@ select **Check for updates** and download a newer ZIP when one is available.
 
 - [Public source spreadsheet](https://docs.google.com/spreadsheets/d/1WNubnsooEfODlmWnJmmN_CxVHYLsfvl_pRp7c-pOshw/edit?usp=sharing)
 - [Associated Reddit post](https://www.reddit.com/r/d4vdiots/comments/1v8oy1d/d4vd_and_celestes_text_messages_from_prelim_day_4/)
+- [Los Angeles County District Attorney case-status release](https://da.lacounty.gov/media/news/d4vd-ordered-stand-trial-murdering-dismembering-14-year-old-girl)
+- [Associated Press courtroom report on the seized iPhone and iCloud conversations](https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad)
+- [CBS Los Angeles report on the reviewed message range](https://www.cbsnews.com/losangeles/news/d4vd-murder-preliminary-hearing-day-5-celeste-rivas-hernandez/)
+- [ABC7 report on the final-message sequence](https://abc7.com/post/d4vd-murder-case-final-texts-celeste-rivas-hernandez-singer-shown-court-during-day-5-hearing/19586305/)
+- [FOX 11 report on the Discord statement described in testimony](https://www.foxla.com/news/d4vd-trial-preliminary-hearing-celeste-rivas-hernandezs-murder-case)
 
+The reporting links add context and provenance; their prose is not merged into
+the 337-message transcription. Community screenshots and theories remain
+clearly labeled as unverified research leads.

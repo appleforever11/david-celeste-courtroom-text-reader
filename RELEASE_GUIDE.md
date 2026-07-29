@@ -8,7 +8,8 @@ release should follow this sequence:
 3. Run `python3 build_david_celeste_reader.py`.
 4. Copy the rebuilt reader to this repository as both `index.html` and
    `david-celeste-imessage-player.html`.
-5. Copy the current workbook, README, and screenshots into this repository.
+5. Copy the current workbook, README, and all reader/research screenshots into
+   this repository.
 6. Commit and push the changes to `main`. GitHub Pages will update the online
    reader.
 7. Rebuild `share/David-Celeste-Courtroom-Text-Reader.zip` and
